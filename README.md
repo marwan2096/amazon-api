@@ -3,9 +3,11 @@ Prerequisites
 PHP >= 8.1
 
 MySQL >= 5.7
-
+# 1. AMAZON E-COMMERCE API DOCUMENTATION
+https://github.com/marwan2096/amazon-api/blob/main/amazon%20api.pdf
 Composer
-
+# 1. AMAZON E-COMMERCE API DOCUMENTATION
+https://github.com/marwan2096/amazon-api/blob/main/amazon%20api.pdf
 ⚡ Quick Installation
 bash
 # 1. Clone repository
